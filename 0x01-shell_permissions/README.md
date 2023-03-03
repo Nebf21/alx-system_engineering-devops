@@ -1,1 +1,1 @@
-shell permissons
+1.Creating directory im_betty
